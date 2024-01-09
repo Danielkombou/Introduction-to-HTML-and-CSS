@@ -74,6 +74,12 @@ img {
         width: 100%;
         align-items: center;
     }
+    .col {
+        width: 90%;
+    }
+    h1 {
+        font-size: 25px;
+    }
 }
 
 /* Navigation bar */
@@ -83,7 +89,6 @@ img {
 header {
     text-align: center;
     background-color: #f8f8f8;
-    
 }
 
 nav ul {
@@ -114,9 +119,7 @@ nav a:focus {
     font-size: 2rem;
     margin: 0;
     color: #143774;
-    
 }
-
 
 .subtitle {
     font-size:.75rem;
